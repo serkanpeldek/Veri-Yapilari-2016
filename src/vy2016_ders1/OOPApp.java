@@ -9,6 +9,7 @@ public class OOPApp {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
+		System.out.println("bazý deðiþiklikler yapýldý");
 		BankAccount ba=new BankAccount(104.3);
 		BankAccount ba1=new BankAccount(0);
 		ba.display();
